@@ -1,0 +1,11 @@
+.contato-app {
+  margin-top: 120px;
+}
+
+
+.info-card {
+  display: flex;
+  padding-left: 100px;
+  position: relative;
+  bottom: 55px;
+}
