@@ -1,2 +1,3 @@
-# react-cadastro
-Frontend feito em ReactJS
+# Cadastro de contatos
+* ReactJS
+* Material-ui
