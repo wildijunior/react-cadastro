@@ -8,5 +8,8 @@ Wildi Jr
 
 
 ### Utilizacao
-npm i 
-para instalar as dependencias
+Instalar dependencias:
+* npm i
+
+Startar projeto
+* npm start
