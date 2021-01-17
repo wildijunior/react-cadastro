@@ -14,5 +14,4 @@ Instalar dependencias:
 Startar projeto
 * npm start
 
-### Link
-https://wjr-contatos.herokuapp.com/
+
